@@ -1,0 +1,214 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+
+.nav-1
+{
+margin: 2px;
+
+
+}
+.navbar
+{ 
+background: #b0a6959d;
+display: flex;
+padding: 0 0 0 1200px;
+margin: px;
+
+}
+
+.part
+{
+background: #EBE3D5;
+padding: 50px;
+display: flex;
+
+display: flex;
+padding: 0 0 0 130px;
+
+}
+.part-2
+{
+
+margin: 44px;
+display: flex;
+padding: 0 0 0 2px;
+
+}
+.div1
+{
+margin: 10px;
+}
+.part-2>div>li
+{
+display: flex ;
+
+}
+
+.part-3
+{
+padding: 0 0 0 65px; 
+
+}
+
+.part-4
+{
+
+display: flex;
+margin: 45px;
+padding: 0 0 0 80px;
+}
+
+.part-4>div>li
+{
+display: flex ;
+
+
+}
+.head3
+{
+background: #b0a6959d;
+padding: 10px;
+} 
+.head-div
+{
+padding: 0 0 0 280px;
+font-size: smaller;
+}
+.hd 
+{
+
+margin: 0 0 0 630px;
+}
+.head4
+{
+
+display: flex;
+
+
+}
+.main1
+{
+
+padding: 9px;
+border-right: dotted #b0a6959d;
+
+}
+.main2
+{
+
+padding: 2px;
+}
+.main3
+{
+padding: 5px;
+
+}
+
+.card
+{
+padding: 0px 65px 0 65px;
+align-items: center; 
+
+}
+.name
+{
+border: black;
+
+
+}
+.name>h1
+{
+padding: 5px;
+}
+.edit
+{
+padding: 5px;
+align-items: center;
+
+}  
+
+
+
+.blog
+{
+
+padding:20PX 20PX 20PX 20px
+
+}
+
+.blog2
+{
+display: flex;
+
+
+
+}
+
+.footer
+{
+display: flex;
+background: #EBE3D5 ;
+
+}
+.f1
+{
+margin: 20px;
+display: flex;
+padding-left: 20px;
+
+}
+.f2
+{
+margin: 50px;
+display: flex;
+padding: 0 0 0 90px;
+}
+.f3
+{
+margin: 44px;
+display: flex;
+padding: 29px 0 0 200px;
+}
+.ff
+{
+padding: 30px;
+}
+.end
+{
+padding: 0 0 0 10px;
+
+}
+.end>div
+{
+background: #CEDEBD;
+}
+.about1
+{
+padding: 150px;
+
+}
+.contact
+{
+display: flex;
+}
+.con-1
+{
+padding: 20px;
+padding:100px 0 100px 250px;
+}
+.con-2
+{
+padding:100px 0 100px 250px;
+}
+
+.dis-1
+{
+padding-left: 600px;
+font-size: large;
+}
+

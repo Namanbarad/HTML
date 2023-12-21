@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>entertainment</title>
+    <link rel="stylesheet" href="stayle.css">
+
+    <style>
+      *{
+        margin: 0%;
+        padding: 0%;
+      }
+      
+
+.naav-123
+{
+  
+}
+.nav-1
+{
+  margin: 2px;
+  
+  
+}
+.navbar
+{ 
+  background: #E1ECC8;
+  display: flex;
+  padding: 0 0 0 940px;
+  margin: px;
+
+}
+.nav-12
+{
+
+}
+.part
+{
+  background: #C4D7B2;
+  padding: 50px;
+  display: flex;
+  
+  display: flex;
+  padding: 0 0 0 120px;
+
+}
+.part-2
+{
+
+margin: 44px;
+display: flex;
+
+}
+.div1
+{
+  margin: 10px;
+}
+.part-2>div>li
+{
+  display: flex ;
+
+}
+
+.part-3
+{
+ 
+
+}
+
+ .part-4
+ {
+ 
+  display: flex;
+  margin: 45px;
+ }
+ .part-4>div>li
+ {
+  display: flex ;
+  
+ }
+ .head3
+ {
+  background: #E1ECC8;
+  padding: 10px;
+} 
+.hd 
+{
+
+margin: 0 0 0 500px;
+}
+
+
+
+
+
+    </style>
+    
+</head>
+<body>
+
+  <header class="menu">
+    <nav class="naav-123">              
+
+
+   <div class="navbar" > 
+    <div  class="nav-1"  >   <img src="./img/instagram.png" height="25px" alt=""></div>  
+<div class="nav-1">  <img src="./img/pinterest.png" height="25px"></div>
+    <div class="nav-1">  <img src="./img/568407.png" height="25px"> </div>
+    <div class="nav-1">  <img src="./img/whatsapp.png" height="25px"></div>
+   </div>
+  
+
+  </nav>
+  
+   <div class="part">
+    <div class="part-2">
+      
+      
+        <div class="div1">
+        <li>home </li>
+      </div>
+      <div class="div1">
+        <li>movie</li>
+      </div>
+      <div class="div1">
+        <li>tv shows</li>
+      </div>
+
+        
+
+    </div>
+    <div class="part-3">
+
+         <img src="./img/Hollywood-Wine_Main-Logo-900-removebg-preview.png" height="120"  width="" alt="">
+
+
+    </div>
+    <div class="part-4">
+
+      <div class="div1">
+        <li>lifestyle</li>
+      </div>
+      <div class="div1">
+        <li>about</li>
+      </div>
+      <div class="div1">
+        <li>contact</li>
+      </div>
+      <div class="div1">
+        <li><img src="./img/2684122.png" height="18" alt=""></li>
+      </div>
+      
+      
+
+    </div>
+   </div>
+<div class="head3">
+     <div class="hd">
+      image
+     </div>
+</div>
+  
+</body>
+</html>
